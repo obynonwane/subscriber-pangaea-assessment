@@ -6,7 +6,7 @@
 <h3> This Project was Built with  Laravel PHP Framework </h3>
 <h1>Installation</h1>
 <ul>
-<li>Clone the repo <code>git clone https://github.com/obynonwane/publisher-pangaea-assessment.git</code></li>
+<li>Clone the repo <code>git clone https://github.com/obynonwane/subscriber-pangaea-assessment.git</code></li>
 <li><code>cd </code> to project folder.</li>
 <li>Run <code>composer install</code></li>
 <li>Save the <code>.env.example</code> as <code>.env</code> and set your DB credentials</li>
