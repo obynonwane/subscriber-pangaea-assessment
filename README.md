@@ -12,7 +12,7 @@
 <li>Save the <code>.env.example</code> as <code>.env</code> and set your DB credentials</li>
 <li>Run <code> php artisan key:generate</code> to generate the app key</li>
 <li>Run <code>php artisan migrate</code></li>
-<li>Run <code>php artisan serve </code>To startup application</li>
+<li>Run <code>php artisan serve --port=9000 </code>To startup application</li>
 <li>Done !!! Enjoy</li>
 </ul>
 
